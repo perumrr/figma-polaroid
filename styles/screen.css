@@ -67,9 +67,11 @@ header h1 {
     padding: 0;
 }
 
-.details ul li {
-    font-size: 1em;
+.details ul li.qr {
+    background: url("qr") no-repeat center left;
+    list-style-type: none;
     margin: 10px 0;
+    padding: 0 0 0 35px;
 }
 
 .cta {
