@@ -14,6 +14,7 @@ header h1 {
     font-weight: bold;
     margin: 20px;
     align-items: left;
+    color: #424242;
 }
 
 .hero {
@@ -33,7 +34,7 @@ header h1 {
 .hero h2 {
     font-size: 2.5em;
     font-weight: 900;
-    color: #222;
+    color: #424242;
 }
 
 .details {
@@ -48,7 +49,7 @@ header h1 {
 .details h3 {
     font-size: 1.5em;
     font-weight: 900;
-    color: #333;
+    color: #424242;
 }
 
 .details p {
@@ -79,7 +80,7 @@ header h1 {
 .cta h3 {
     font-size: 1.5em;
     font-weight: 900;
-    color: #333;
+    color: #424242;
 }
 
 .cta form {
@@ -106,7 +107,7 @@ header h1 {
     border: none;
     border-radius: 50px;
     cursor: pointer;
-    transition: background 0.3s;
+    transition: 0.3s;
 }
 
 .cta button:hover {
