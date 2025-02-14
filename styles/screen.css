@@ -38,7 +38,6 @@ header h1 {
 }
 
 .details {
-    background: #fff;
     padding: 40px;
     border-radius: 10px;
     margin: 20px auto;
@@ -69,7 +68,6 @@ header h1 {
 }
 
 .cta {
-    background: #fff;
     padding: 40px;
     border-radius: 0px;
     margin: 20px auto;
@@ -102,7 +100,7 @@ header h1 {
 .cta button {
     padding: 15px 20px;
     background: #FF3B30;
-    color: #fff;
+    color: #ccc;
     font-size: 1em;
     border: none;
     border-radius: 0px;
