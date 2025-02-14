@@ -3,7 +3,7 @@
 body {
     font-family: 'Inter', sans-serif;
     color: #333;
-    background: #F5F5F5;
+    background: #e9e9e9;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -42,12 +42,10 @@ header h1 {
 }
 
 .details {
-    background: #fff;
     padding: 40px;
     border-radius: 10px;
     margin: 20px auto;
     width: 80%;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .details h3 {
@@ -98,12 +96,10 @@ header h1 {
 }
 
 .cta {
-    background: #fff;
     padding: 40px;
     border-radius: 0px;
     margin: 20px auto;
     width: 80%;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .cta h3 {
