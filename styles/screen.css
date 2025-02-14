@@ -28,10 +28,9 @@ header h1 {
     top: 40%;
     left: 50%;
     transform: translateX(-50%);
-    color: white;
+    color: #424242;
     font-size: 3rem;
     z-index: 10;
-    
     padding: 10px;
 }
 
@@ -40,7 +39,7 @@ header h1 {
 }
 
 .hero-image {
-    width: 100%;
+    width: 50%;
     height: auto;
     display: block;
 }
