@@ -34,7 +34,7 @@ header h1 {
 .hero-image {
     max-width: 100%;
     height: auto;
-    margin-bottom: -30px;
+    margin-bottom: -60px;
     padding-bottom: 0px;
 }
 
@@ -44,7 +44,7 @@ header h1 {
     color: #424242;
     margin-bottom: auto; 
     padding-top: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 .details {
